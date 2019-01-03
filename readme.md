@@ -14,6 +14,11 @@ This simple app brings you the awesome content of [media.ccc.de][1] onto your LG
 
 As soon as the app is accepted by the LG content store i'll give an update
 
+# Building 
+Adapt the application for your needs and build the `.ipk` file with
+```
+ares-package ./media.ccc.de/
+```
 
 [1]: https://media.ccc.de
 [2]: https://github.com/raben2/WebOS_media_ccc_de/releases
