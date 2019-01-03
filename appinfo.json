@@ -1,0 +1,12 @@
+{
+    "id": "com.srsh.io.media.ccc.de",
+    "version": "1.0.0",
+    "vendor": "srsh.io",
+    "type": "web",
+    "main": "index.html",
+    "title": "media.ccc.de",
+    "icon": "Logo_CCC_small.png",
+    "largeIcon": "Logo_CCC_big.png",
+    "bgImage": "launchBGImage.png",
+    "uiRevision":2
+}
