@@ -1,3 +1,5 @@
+REPO moved to [Codeberg][4]
+
 media.ccc.de on LG WebOS
 ========================
 
@@ -23,3 +25,4 @@ ares-package ./media.ccc.de/
 [1]: https://media.ccc.de
 [2]: https://github.com/raben2/WebOS_media_ccc_de/releases
 [3]: http://webostv.developer.lge.com/develop/app-test/
+[4]: https://codeberg.org/srsh/WebOS_media_ccc_de
